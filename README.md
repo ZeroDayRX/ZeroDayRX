@@ -42,7 +42,7 @@
 <div align="center" class="contacts" style="display: flex; flex-flow: column wrap;">
 	<details open>
 	<summary>My contacts</summary><br>
- 	<a href="https://discord.gg/nichind"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Discord.svg" width="50"/></a>
+ 	<a href="https://discord.gg/xknNQTebdS"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Discord.svg" width="50"/></a>
 	</details>	
 </div>
 
