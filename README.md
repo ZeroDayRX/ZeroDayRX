@@ -6,7 +6,9 @@
 	<br>
 	<br>
  
-	25 years old, software developer with 5 years of experience in the IT field, passionate about technology, cybersecurity and games. 
+	25 years old
+
+	Software developer with 5 years of experience in the IT field, passionate about technology, cybersecurity and games. 
 	
 	I speak fluent Portuguese and intermediate English.
 
